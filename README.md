@@ -60,4 +60,3 @@ Based on pre-aggregated SQL queries executed in Azure Synapse Analytics prior to
 •	Medal Dominance: The medal tally was led by top-performing nations maintaining a strong correlation between total team size and cumulative gold medal counts. 
 •	Gender Balance across Disciplines: Certain sports (such as Swimming and Athletics) achieved high parity in male and female entry counts, whereas specific niche disciplines displayed significant variance in total participant entries. 
 
-<img width="451" height="659" alt="image" src="https://github.com/user-attachments/assets/bd3b3bc7-f09a-4ce6-a684-c98c058b1302" />
